@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arkrez
-- 👀 I’m interested in ... Becoming a full-time programmer
-- 🌱 I’m currently learning ... C#, Azure, Python
+- 👀 I’m interested in ... Robotics and Engineering
+- 🌱 I’m currently learning ... C#, Asp.Net, Python, Web Development, DSA, and Engineering
 - 💞️ I’m looking to collaborate on ... An open source project or any type of project for my portfolio
 - 📫 How to reach me ... drossbossd@gmail.com
 
