@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arkrez
 - 👀 I’m interested in ... Robotics and Engineering
-- 🌱 I’m currently learning ... C#, Asp.NetCore, Python, JS, HTML, CSS, SQL, API
+- 🌱 I’m currently learning ... C#, Asp.NetCore, Python, JS, HTML, CSS, SQL, React
 - 💞️ I’m looking to collaborate on ... An open source project or any type of project for my portfolio
 - 📫 How to reach me ... draross2019@gmail.com
 
